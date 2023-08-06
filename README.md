@@ -1,3 +1,3 @@
-# Foodmatch-
+Match the food to fill your hunger!
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hzbcyu)
+Picture matching game made with html/css and js still in development and will be updated frequently.
